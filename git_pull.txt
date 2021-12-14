@@ -1,0 +1,4 @@
+This file created for Git Pull request.
+
+It is used to fetch files from remote repo into local directory.
+Also it updates the local directory with whatever changes made to the remote repository.
