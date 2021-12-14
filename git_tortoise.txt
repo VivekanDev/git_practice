@@ -1,0 +1,7 @@
+TortoiseGit is a Windows Shell Interface to Git based on TortoiseSVN. 
+
+It's open source and can be built entirely with freely available software.
+
+TortoiseGit supports you with regular tasks, such as committing, showing logs, diffing two versions, creating branches and tags.
+
+It can act as a standalone application too.
