@@ -1,0 +1,9 @@
+Git hashing function is similar to hashing used in Software programming.
+
+The hashing function is used for creating KEYS in dictionary datatype.
+
+It creates an unique ID for the key value therefore it does not allows duplicate data and also prevents collision.
+
+Also using a Unique ID means accessing time is fast with average time complexity being O(1) and worst being O(n).
+
+It uses a strong SHA-1 encryption.
