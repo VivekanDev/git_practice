@@ -1,0 +1,14 @@
+Git Fetch is similar to Git Pull except it doesn't megre branched changes.
+
+It downloads files from remote repository into our local repository.
+
+Git isolates fetched content from existing local content.
+
+This makes fetching a safe way to review commits before integrating them with your local repository.
+
+Commands:
+
+git fetch [<options>] [<repository> [<refspec>…​]]
+git fetch [<options>] <group>
+git fetch --multiple [<options>] [(<repository> | <group>)…​]
+git fetch --all [<options>]
